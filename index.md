@@ -1,5 +1,13 @@
 [TOC]
 
+# Wild Wild Web
+
+# Linux
+
+## Window Managers
+
+- [`u://enlightment`]
+
 # Vim
 
 ## Language Server
@@ -93,3 +101,5 @@ https://github.com/asteris-llc/terraform-provisioner-converge
 
 [`packer`]: https://www.packer.io/
 [`hugo`]: https://gohugo.io/
+
+[`u://enlightment`]: https://www.enlightenment.org/
