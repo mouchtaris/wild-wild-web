@@ -3,6 +3,10 @@ Docs
 
 - [Index](https://hackmd.io/@Nikos-xpay/ByvARHgKP)
 
+Meta
+---
+
+- [This book on `hackmd.io`](https://hackmd.io/@Nikos-xpay/BkId4l6FD)
 
 
 Rust
